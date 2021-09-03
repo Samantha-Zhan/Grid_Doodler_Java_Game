@@ -8,8 +8,8 @@ Built using: Java and build in Java build in GI.
 ## Instruction
 Step 1            |  Step 2
 :-------------------------:|:-------------------------:
-<img src="https://github.com/Samantha-Zhan/Grid_Doodler_Java_Game/blob/main/girdDoodler/Step1.jpg" width="450" height="450"> |  <img src="https://github.com/Samantha-Zhan/Grid_Doodler_Java_Game/blob/main/girdDoodler/Step2.jpg" width="450" height="450">
+<img src="https://github.com/Samantha-Zhan/Grid_Doodler_Java_Game/blob/main/girdDoodler/Step1.jpg" width="400" height="400"> |  <img src="https://github.com/Samantha-Zhan/Grid_Doodler_Java_Game/blob/main/girdDoodler/Step2.jpg" width="400" height="400">
 
 Step 3           |  Step 4
 :-------------------------:|:-------------------------:
-<img src="https://github.com/Samantha-Zhan/Grid_Doodler_Java_Game/blob/main/girdDoodler/Step3.jpg" width="450" height="450"> |  <img src="https://github.com/Samantha-Zhan/Grid_Doodler_Java_Game/blob/main/girdDoodler/Step4.jpg" width="450" height="450">
+<img src="https://github.com/Samantha-Zhan/Grid_Doodler_Java_Game/blob/main/girdDoodler/Step3.jpg" width="400" height="400"> |  <img src="https://github.com/Samantha-Zhan/Grid_Doodler_Java_Game/blob/main/girdDoodler/Step4.jpg" width="400" height="400">
